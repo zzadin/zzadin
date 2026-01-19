@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Valentim (zzadin)
 
-Sou iniciante em **Ciência de Dados** e apaixonado por transformar informações em insights.  
+Sou iniciante em **Back-end** e **Ciência de Dados** e apaixonado por transformar informações em insights.  
 Aqui você encontra meus estudos, projetos e experimentos com Python, SQL e visualização de dados.
 
 ---
